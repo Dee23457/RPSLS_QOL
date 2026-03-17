@@ -1,6 +1,4 @@
-# RPSLS QOL
-</br>WARNING: YOU WILL NEED TO INSTALL THE "playsound==1.2.2" LIBARY OR ELSE THE SFX WONT WORK!
-
+# RPSLS QOL 
 Classic game: Rock, Paper, Scissors with the addition of Lizard, Spock</br></br>
 ![image](https://user-images.githubusercontent.com/24422068/129257500-949eb088-ad07-4433-bee6-44b0c825f9c9.png)
 </br>Image sourced from: https://nicks1.me/RPSLS.jpg
